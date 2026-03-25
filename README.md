@@ -4,6 +4,8 @@ A professional Japanese-themed AI Agent web application built on The Open Networ
 
 ## Features
 
+<img width="1247" height="941" alt="image" src="https://github.com/user-attachments/assets/6582afc3-b4b2-44ec-9e5a-1883c655cf04" />
+
 - **TON Wallet Integration** — Connect via Tonkeeper, TonHub, OpenMask, or MyTonWallet
 - **AI Agent Chat** — Interactive demo agent with knowledge of TON ecosystem
 - **Japanese Aesthetic** — Elegant design with Seigaiha patterns, kanji typography, and vermillion accents
